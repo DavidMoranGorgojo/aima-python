@@ -9,7 +9,7 @@ functions.
 import sys
 from collections import deque
 
-from utils import *
+from aima_python.utils import *
 
 
 class Problem:
