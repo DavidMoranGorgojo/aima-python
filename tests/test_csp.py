@@ -1,6 +1,6 @@
 import pytest
 from utils import failure_test
-from csp import *
+from csp1 import *
 import random
 
 random.seed("aima-python")
